@@ -5,7 +5,7 @@ layout: "guide"
 weight: 1
 ---
 
-###### {$page.description}
+###### <div class="description">{$page.description}</div>
 <b><u>N.B. These steps are common to the creation of products of all types.</u></b>
 <article class="first-article" id="1">
 
