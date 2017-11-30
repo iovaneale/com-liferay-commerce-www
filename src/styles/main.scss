@@ -36,7 +36,7 @@ h3.about-title {
   top: 64px;
 }
 body {
-  background-color: #DDC9B2;
+  background-color: #eef2f9;
 }
 .about, .footer, .docs header, .topbar.topbar-light, .guide:not(.content) .topbar {
   background-color: #685742;
@@ -57,14 +57,14 @@ body {
 }
 .docs-home-topics, .docs .sidebar-list .sidebar-link {
   color: #685742;
-  background-color: #eef2f9;
+  background-color: #DDC9B2;
 }
 .sidebar {
-  background-color: #eef2f9;
+  background-color: #DDC9B2;
 }
-// .sidebar-link {
-//   background-color: #dae3ef;
-// }
+.sidebar-link {
+  background-color: #dae3ef;
+}
 .toggler-collapsed {
   border-bottom: 2px solid #685742;
 }
