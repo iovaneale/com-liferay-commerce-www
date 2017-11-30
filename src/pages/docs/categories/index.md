@@ -6,7 +6,7 @@ icon: "groups"
 weight: 4
 ---
 
-###### {$page.description}
+###### <div class="description">{$page.description}</div>
 
 <article id="1">
 
