@@ -1,5 +1,5 @@
 ---
-title: "Method: Upload"
+title: "Method: Import"
 description: "Through a few simple steps, a complete store to start to work with will be configured."
 layout: "guide"
 weight: 3
@@ -47,6 +47,6 @@ weight: 3
 </article>
 
 <div class="btn-holder">
-	<a class="btn btn-default" href="./gettingStarted.html">PREV: Upload Method</a>
-	<a class="btn btn-accent" href="/catalog/index.html">NEXT: CATALOG</a>
+	<a class="btn btn-default" href="./customMethod.html">PREV: Custom Method</a>
+	<a class="btn btn-accent" href="/docs/catalog/index.html">NEXT: Finish!</a>
 </div>
