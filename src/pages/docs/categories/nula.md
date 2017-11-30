@@ -5,7 +5,7 @@ layout: "guide"
 weight: 3
 ---
 
-###### {$page.description}
+###### <div class="description">{$page.description}</div>
 
 <article id="1">
 
