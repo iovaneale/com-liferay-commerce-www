@@ -5,7 +5,7 @@ layout: "guide"
 weight: 2
 ---
 
-###### {$page.description}
+###### <div class="description">{$page.description}</div>
 
 <article class="first-article" id="1">
 
@@ -48,5 +48,5 @@ weight: 2
 
 <div class="btn-holder">
 	<a class="btn btn-default" href="./predefinedMethod.html">PREV: Predefined Method</a>
-	<a class="btn btn-accent" href="./uploadMethod.html">NEXT: Upload Method</a>
+	<a class="btn btn-accent" href="./importMethod.html">NEXT: Import Method</a>
 </div>
