@@ -5,13 +5,13 @@ layout: "guide"
 weight: 1
 ---
 
-###### {$page.description}
+###### <div class="description">{$page.description}</div>
 
 <article class="first-article" id="1">
 
 ## <h5>Sample Catalog</h5>
 
-<h6><b>STEP 1</b>: <br>Scroll to the Commerce menu, at the bottom of the Site Administrator panel and click "Enable Features" to start the wizard.</h6>
+<h6></h6>
 
 <img class="docs-img small" src="/images/SiteAdministratorPanel.png"/>
 
