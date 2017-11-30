@@ -2,11 +2,8 @@
 
 ## Deployment
 
-Execute these steps:
+Execute this shell script:
 
 ```shell
-npm install
-electric build
-cd dist
-we deploy -p commerce -s docs
+./deploy.sh
 ```
