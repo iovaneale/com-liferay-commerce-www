@@ -18,31 +18,13 @@ weight: 1
 
 </article>
 
-<article id="2">
+<article class="last-article" id="2">
 
 ## <h5>Method</h5>
 
 <h6><b>STEP 2</b>: <br>Choose your favourite method for setting up your Commerce: <b><a href="./predefinedMethod.html">Predefined</a></b> / <b><a href="./customMethod.html">Custom</a></b> / <b><a href="./importMethod.html">Import</a></b></h6>
 
 <img class="docs-img large" src="/images/CommerceWizardStep_1.png"/>
-
-</article>
-
-<article id="3">
-
-## <h5>Theme</h5>
-
-<h6><b>STEP 3</b>: <br>Choose from a wide variety of themes to make your Commerce unique!</h6>
-
-<img class="docs-img large" src="/images/theme.png"/>
-
-</article>
-
-<article class="last-article" id="4">
-
-## <h5>Time to get real!</h5>
-
-<h6>Here we go! Easier then ever, your chance to gain is ready!</h6>
 
 </article>
 
