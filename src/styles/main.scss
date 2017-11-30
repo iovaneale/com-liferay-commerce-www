@@ -1,0 +1,151 @@
+$accent: #685742;
+
+@import "marble";
+
+// Root
+@import "templates/root";
+
+// Landing
+@import "templates/landing";
+
+// Docs
+@import "templates/docs";
+
+// Search
+@import "templates/search";
+
+// Updates
+@import "templates/updates";
+
+// Blog
+@import "templates/blog";
+
+// Tutorial
+@import "templates/tutorial";
+
+// Custom style
+p.about-description {
+  font-size: 24px;
+}
+
+h3.about-title {
+  font-size: 90px;
+}
+.header > .container, .about > .container, .features > .container {
+  padding: 184px 20px;
+  top: 64px;
+}
+body {
+  background-color: #eef2f9;
+}
+.about, .footer, .docs header, .topbar.topbar-light, .guide:not(.content) .topbar {
+  background-color: #685742;
+  background-image: -webkit-linear-gradient(left,#685742,#9a8468);
+  background-image: linear-gradient(to right,#685742,#9a8468);
+}
+.btn-accent:hover, .btn-accent:focus, .btn-accent.focus {
+  background-color: #9a8468;
+}
+.docs header .title {
+  color: #fff;
+}
+.topbar .topbar-logo .topbar-logo-link > *:last-child, .topbar .topbar-logo .topbar-logo-icon {
+  color: #fcfeff;
+}
+.topbar.topbar-light .topbar-logo .topbar-logo-link {
+  color: #685742;
+}
+.docs-home-topics, .docs .sidebar-list .sidebar-link {
+  color: #685742;
+  background-color: #eef2f9;
+}
+.sidebar {
+  background-color: #eef2f9;
+}
+// .sidebar-link {
+//   background-color: #dae3ef;
+// }
+.toggler-collapsed {
+  border-bottom: 2px solid #685742;
+}
+.docs .sidebar-list {
+  padding: 0;
+}
+.docs .sidebar-list .sidebar-link-selected {
+  border-left: 3px solid #685742;
+  background-color: #dae3ef;
+}
+.sidebar-search {
+  border-bottom: 2px solid #685742;
+}
+li.sidebar-item .active {
+  border-left: 3px solid #685742;
+}
+.future-feature {
+  b {
+    padding: 10px;
+  }
+}
+.nav-btn-container {
+  margin: 30px;
+}
+.btn-holder {
+  margin: 30px 20px 30px 20px;
+  a {
+    margin: 0 20px 20px;
+  }
+}
+.nav-btn {
+  text-align: right;
+  padding: 0 30px;
+  a, a:visited {
+    text-decoration: none;
+  }
+  .btn {
+    margin: 30px;
+  }
+}
+.small {
+  max-width: 60%;
+}
+.large {
+  max-width: 100%;
+}
+.docs-img {
+  padding: 30px;
+  margin: auto;
+}
+.topic {
+  color: #685742;
+  display: block;
+  margin: 20px auto 24px;
+  text-align: center;
+}
+.topic .topic-icon, .topic.radial-out:before {
+  background-image: -webkit-linear-gradient(left,#685742,#9a8468);
+  background-image: linear-gradient(to right,#685742,#9a8468);
+}
+.radial-out .topic-title {
+  color: #685742;
+}
+.topic.radial-out:hover .topic-icon, .topic.radial-out:focus .topic-icon {
+  background-color: transparent;
+  background-image: none;
+}
+article {
+  border-top: 6px solid transparent;
+  -moz-border-image: -moz-linear-gradient(left, #9a8468 0%, #685742 100%);
+  -webkit-border-image: -webkit-linear-gradient(left, #9a8468 0%, #685742 100%);
+  border-image: linear-gradient(to right, #685742 0%, #9a8468 100%);
+  border-image-slice: 1;
+}
+.first-article {
+  border-top: 6px solid #685742;
+}
+.docs-nav.affix {
+  top: 84px;
+  z-index: 10;
+}
+.topbar {
+  height: 64px;
+}
