@@ -1,6 +1,6 @@
 ---
 title: "Method: Predefined"
-description: "A predefined set of Products, Options, Categories and Layouts to start working with will be implemented"
+description: "By chosing this method, a predefined Theme and a set of Products, Options, Categories and Layouts to start working with will be implemented. If it's your first-time user experience with LiferayCommerce, this method could be foundamental to immediately understsand its potential."
 layout: "guide"
 weight: 1
 ---
