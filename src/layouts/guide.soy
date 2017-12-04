@@ -30,6 +30,12 @@
 
 		<header class="guide-header">
 			<div class="container-hybrid">
+				{if $page.icon}
+					<span class="icon-16-{$page.icon}"></span>
+				{/if}
+				{if $page.glyphicon}
+					<span class="icon-{$page.iconsize} glyphicon glyphicon-{$page.glyphicon}"></span>
+				{/if}
 				<h1 class="title">{$page.title}</h1>
 			</div>
 		</header>
