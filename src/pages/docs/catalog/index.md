@@ -2,8 +2,9 @@
 title: "Catalog"
 description: "In this section will be explained how to identify what kind of product we are going to insert in our Catalog ."
 layout: "guide"
-icon: "folder"
-weight: 2
+glyphicon: "book"
+iconsize: "12"
+weight: 3
 ---
 
 ###### <div class="description">{$page.description}</div>
