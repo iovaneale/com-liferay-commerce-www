@@ -2,8 +2,8 @@
 title: "Cart"
 description: "In this section will be explained how to identify what kind of product we are going to insert in our Catalog ."
 layout: "guide"
-icon: "plus"
-weight: 2
+icon: "cart"
+weight: 4
 ---
 
 ###### {$page.description}
