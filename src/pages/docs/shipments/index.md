@@ -1,9 +1,10 @@
 ---
-title: "Attributes"
+title: "Shipments"
 description: "Attributes are the bricks of the product catalog wall, the rings of the commerce chain. Adding specific properties to the product, means to makeup the product."
 layout: "guide"
-icon: "tag"
-weight: 3
+glyphicon: "send"
+iconsize: "12"
+weight: 10
 ---
 
 ###### {$page.description}
