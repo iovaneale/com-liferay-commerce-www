@@ -42,6 +42,9 @@
 			{if $page.icon}
 				<span class="sidebar-icon icon-16-{$page.icon}"></span>
 			{/if}
+			{if $page.glyphicon}
+				<span class="sidebar-icon icon-{$page.iconsize} glyphicon glyphicon-{$page.glyphicon}"></span>
+			{/if}
 			<span>{$page.title}</span>
 		</a>
 	{/if}

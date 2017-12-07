@@ -10,7 +10,7 @@ weight: 2
 
 <article class="first-article" id="1"><br>
 
-## <h5>Add a new Option</h5>
+## <h5>Option field type</h5>
 
 1. Open "Commerce" from the side panel
 
