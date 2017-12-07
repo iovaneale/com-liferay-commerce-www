@@ -2,7 +2,7 @@
 title: "Getting Started"
 description: "Through a few simple steps, a complete store to start to work with will be configured."
 layout: "guide"
-icon: "gear"
+icon: "power-button"
 weight: 1
 ---
 
