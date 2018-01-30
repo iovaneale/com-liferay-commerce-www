@@ -1,9 +1,8 @@
 ---
-title: "Custom Method"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin viverra orci sed lacus pulvinar, ac facilisis quam luctus."
+title: "Accounts Management"
+description: "Through a few simple steps, a complete store to start to work with will be configured."
 layout: "guide"
-glyphicon: "pencil"
-iconsize: "12"
+icon: "people"
 weight: 2
 ---
 
@@ -49,6 +48,6 @@ weight: 2
 </article>
 
 <div class="btn-holder">
-	<a class="btn btn-default" href="./predefinedMethod.html">PREV: Predefined</a>
-	<a class="btn btn-accent" href="./importMethod.html">NEXT: Import</a>
+	<a class="btn btn-default" href="./predefinedMethod.html">PREV: Predefined Method</a>
+	<a class="btn btn-accent" href="./importMethod.html">NEXT: Import Method</a>
 </div>

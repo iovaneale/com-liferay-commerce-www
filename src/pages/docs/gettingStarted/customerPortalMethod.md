@@ -1,10 +1,10 @@
 ---
-title: "Custom Method"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin viverra orci sed lacus pulvinar, ac facilisis quam luctus."
+title: "Customer Portal Method"
+description: "Through a few simple steps, a complete store to start to work with will be configured."
 layout: "guide"
-glyphicon: "pencil"
+glyphicon: "user"
 iconsize: "12"
-weight: 2
+weight: 4
 ---
 
 ###### <div class="description">{$page.description}</div>
@@ -49,6 +49,6 @@ weight: 2
 </article>
 
 <div class="btn-holder">
-	<a class="btn btn-default" href="./predefinedMethod.html">PREV: Predefined</a>
-	<a class="btn btn-accent" href="./importMethod.html">NEXT: Import</a>
+	<a class="btn btn-default" href="./customMethod.html">PREV: Custom</a>
+	<a class="btn btn-accent" href="./finish.html">NEXT: Finish!</a>
 </div>

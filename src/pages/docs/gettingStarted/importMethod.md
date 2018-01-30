@@ -1,7 +1,9 @@
 ---
-title: "Method: Import"
+title: "Import Method"
 description: "Through a few simple steps, a complete store to start to work with will be configured."
 layout: "guide"
+glyphicon: "download-alt"
+iconsize: "12"
 weight: 3
 ---
 
@@ -13,7 +15,7 @@ weight: 3
 
 <h6><b>STEP 1</b>: <br>Scroll to the Commerce menu, at the bottom of the Site Administrator panel and click "Enable Features" to start the wizard.</h6>
 
-<img class="docs-img small" src="/images/SiteAdministratorPanel.png"/>
+<img class="docs-img small" src="/images/sampleImage.jpg"/>
 
 </article>
 
@@ -23,7 +25,7 @@ weight: 3
 
 <h6><b>STEP 2</b>: <br>Choose the favourite method for setting up your Commerce: <b><a href="/notIndexed/predefinedMethod.md">Predefined</a></b> / <b>Custom</b> / <b>Upload</b></h6>
 
-<img class="docs-img large" src="/images/CommerceWizardStep_1.png"/>
+<img class="docs-img small" src="/images/sampleImage.jpg"/>
 
 </article>
 
@@ -34,7 +36,7 @@ weight: 3
 <h6><b>STEP 3</b>: <br>Choose from a wide variety of themes to make your Commerce unique!</h6>
 <h7><b>NOTE</b>: Marking <b>"Sample Data"</b>, a set of pre-created Options, Products and Categories will populate the platform.</h7>
 
-<img class="docs-img large" src="/images/CommerceWizardStep_1.png"/>
+<img class="docs-img small" src="/images/sampleImage.jpg"/>
 
 </article>
 
@@ -47,6 +49,6 @@ weight: 3
 </article>
 
 <div class="btn-holder">
-	<a class="btn btn-default" href="./customMethod.html">PREV: Custom Method</a>
-	<a class="btn btn-accent" href="/docs/catalog/index.html">NEXT: Finish!</a>
+	<a class="btn btn-default" href="./customMethod.html">PREV: Custom</a>
+	<a class="btn btn-accent" href="./customerPortalMethod.html">NEXT: Customer Portal</a>
 </div>

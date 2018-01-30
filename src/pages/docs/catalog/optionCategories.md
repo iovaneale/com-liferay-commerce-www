@@ -2,6 +2,8 @@
 title: "Option Categories"
 description: "Are generally considered Virtual, those products that are unsubstantial items to be downloaded. Examples of virtual products are: LICENSE NUMBERS, WARRANTY NUMBERS, MEMBERSHIP NUMBERS, VOUCHERS, COUPONS."
 layout: "guide"
+glyphicon: "th"
+iconsize: "12"
 weight: 3
 ---
 

@@ -2,6 +2,8 @@
 title: "Product"
 description: "The following steps take you through the process of creating a simple product to be added to the Catalog."
 layout: "guide"
+glyphicon: "sunglasses"
+iconsize: "12"
 weight: 1
 ---
 

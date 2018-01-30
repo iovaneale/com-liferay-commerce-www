@@ -1,10 +1,10 @@
 ---
-title: "Front Store"
+title: "Checkout"
 description: "Mussum Ipsum, cacilds vidis litro abertis. Paisis, filhis, espiritis santis. A ordem dos tratores não altera o pão duris Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Ta deprimidis, eu conheço uma cachacis que pode alegrar sua vidis."
 layout: "guide"
-material: "store"
-iconsize: "16"
-weight: 7
+glyphicon: "ok"
+iconsize: "12"
+weight: 11
 ---
 
 ###### <div class="description">{$page.description}</div>
