@@ -1,13 +1,13 @@
 ---
-title: "Catalog"
+title: "Payment Methods"
 description: "In this section will be explained how to identify what kind of product we are going to insert in our Catalog ."
 layout: "guide"
-glyphicon: "book"
+glyphicon: "credit-card"
 iconsize: "12"
-weight: 2
+weight: 5
 ---
 
-###### <div class="description">{$page.description}</div>
+###### {$page.description}
 
 <article class="first-article" id="1">
 

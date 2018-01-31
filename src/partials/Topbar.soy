@@ -3,10 +3,28 @@
 /**
  * @param? elementClasses
  * @param site
+ * @param page
  */
 {template .render}
 	<nav class="topbar topbar-fixed topbar-light {$elementClasses ? ' ' + $elementClasses : ''}">
+	<div class="col-md-4">
 		{call .logo data="all" /}
+	</div>
+		<div class="col-md-4 guide-header">
+			{if $page.icon}
+				<span class="icon-16-{$page.icon} guide-header-icon"></span>
+			{/if}
+			{if $page.material}
+				<span class="icon-{$page.iconsize} material-icons guide-header-icon">{$page.material}</span>
+			{/if}
+			{if $page.glyphicon}
+				<span class="icon-{$page.iconsize} glyphicon glyphicon-{$page.glyphicon} guide-header-icon"></span>
+			{/if}
+			<span class="title">{$page.title}</span>
+			</div>
+			<div class="col-md-4 docs-link">
+		{call .menu data="all" /}
+		</div>
 	</nav>
 {/template}
 

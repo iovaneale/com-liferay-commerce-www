@@ -1,13 +1,13 @@
 ---
-title: "Catalog"
+title: "Pricing"
 description: "In this section will be explained how to identify what kind of product we are going to insert in our Catalog ."
 layout: "guide"
-glyphicon: "book"
+glyphicon: "tag"
 iconsize: "12"
-weight: 2
+weight: 3
 ---
 
-###### <div class="description">{$page.description}</div>
+###### {$page.description}
 
 <article class="first-article" id="1">
 

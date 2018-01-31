@@ -1,7 +1,9 @@
 ---
-title: "Method: Predefined"
-description: "By chosing this method, a predefined Theme and a set of Products, Options, Categories and Layouts to start working with will be implemented. If it's your first-time user experience with LiferayCommerce, this method could be foundamental to immediately understsand its potential."
+title: "Predefined Method"
+description: "Welcome to the Liferay Commerce Gym, the right place for the first time users."
 layout: "guide"
+glyphicon: "gift"
+iconsize: "12"
 weight: 1
 ---
 
@@ -9,44 +11,87 @@ weight: 1
 
 <article class="first-article" id="1">
 
-## <h5>Sample Catalog</h5>
+## <h5>Lotus Store</h5>
 
-<h6></h6>
+<img class="docs-img small" src="/images/lotusLogo.png"/>
 
-<img class="docs-img small" src="/images/SiteAdministratorPanel.png"/>
+<h6 class="point" >Selecting "Lotus Store", gives you access to a pre-built environment complete with a populated Catalog, Options, Categories, Front Store, etc. Beginners can take advantage of it to become acquainted with the platform in all its features.</h6>
+
+<h6 class="point" ><b>PRODUCTS</b>: <br>the Catalog is fullfilled of different kinds of products like clothes, shoes, bags, accessories.</h6>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+	<ol class="carousel-indicators">
+		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+		<li data-target="#myCarousel" data-slide-to="1"></li>
+		<li data-target="#myCarousel" data-slide-to="2"></li>
+	</ol>
+	<div class="carousel-inner">
+		<div class="item active">
+			<img src="/images/lotusCatalog01.jpg">
+		</div>
+		<div class="item">
+			<img src="/images/lotusCatalog02.jpg">
+		</div>
+		<div class="item">
+			<img src="/images/lotusCatalog03.jpg">
+		</div>
+	</div>
+	<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+		<span class="glyphicon glyphicon-chevron-left"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="right carousel-control" href="#myCarousel" data-slide="next">
+		<span class="glyphicon glyphicon-chevron-right"></span>
+		<span class="sr-only">Next</span>
+	</a>
+</div>
+
+<h6 class="point" ><b>OPTIONS</b>: <br>Given the nature of the store, the entered attributes (OPTIONS) are "Size" and "Color". Their field type is "Select" and they are both set as SKU Contributor, Required and Facetable.</h6>
+
+<img class="docs-img" src="/images/lotusOptions.jpg"/>
+
+<h6 class="point" ><b>CATEGORIES</b>: <br>By default, Lotus Store comes out with with a few categories, that products are associated with, like <b>BAGS</b>, <b>ACCESSORIES</b>, <b>SALE</b>, etc.</h6>
+
+<img class="docs-img" src="/images/lotusStoreCategories.jpg"/>
+
+<h6 class="point" ><b>THEME</b>: <br>The store is based on Lotus Theme, a theme brought by Liferay provided with Liferay Commerce.</h6>
+
+<div id="myCarousel2" class="carousel slide" data-ride="carousel">
+	<div class="carousel-inner">
+		<div class="item active">
+			<img src="/images/lotusStore01.jpg">
+		</div>
+		<div class="item">
+			<img src="/images/lotusStore02.jpg">
+		</div>
+	</div>
+	<a class="left carousel-control" href="#myCarousel2" data-slide="prev">
+		<span class="glyphicon glyphicon-chevron-left"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="right carousel-control" href="#myCarousel2" data-slide="next">
+		<span class="glyphicon glyphicon-chevron-right"></span>
+		<span class="sr-only">Next</span>
+	</a>
+</div>
+
+<h6 class="point" ><b>FRONT STORE</b>: <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin viverra orci sed lacus pulvinar, ac facilisis quam luctus.</h6>
+
+<img class="docs-img" src="/images/sampleImage.jpg"/>
 
 </article>
 
-<article id="2">
+<article class="last-article" id="2">
 
-## <h5>Sample Options</h5>
+## <h5>Empty Catalog</h5>
 
-<h6><b>STEP 2</b>: <br>Choose the favourite method for setting up your Commerce: <b><a href="./index,html">Predefined</a></b> / <b>Custom</b> / <b>Upload</b></h6>
+<h6 class="point" >Selecting this method, you have the chance to start building your unique and completely customized store with a virgin environment to start from scratch from.</h6>
 
-<img class="docs-img large" src="/images/CommerceWizardStep_1.png"/>
-
-</article>
-
-<article id="3">
-
-## <h5>Sample Categories</h5>
-
-<h6><b>STEP 3</b>: <br>Choose from a wide variety of themes to make your Commerce unique!</h6>
-<h7><b>NOTE</b>: Marking <b>"Sample Data"</b>, a set of pre-created Options, Products and Categories will populate the platform.</h7>
-
-<img class="docs-img large" src="/images/CommerceWizardStep_1.png"/>
-
-</article>
-
-<article class="last-article" id="4">
-
-## <h5>Sample Front Store</h5>
-
-<h6>Here we go! Easier then ever, your chance to gain is ready!</h6>
+<img class="docs-img" src="/images/sampleImage.jpg"/>
 
 </article>
 
 <div class="btn-holder">
 	<a class="btn btn-default" href="./index.html">PREV: Getting Started</a>
-	<a class="btn btn-accent" href="./customMethod.html">NEXT: Custom Method</a>
+	<a class="btn btn-accent" href="./customMethod.html">NEXT: Custom</a>
 </div>

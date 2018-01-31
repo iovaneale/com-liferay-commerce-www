@@ -2,6 +2,8 @@
 title: "Product"
 description: "The following steps take you through the process of creating a simple product to be added to the Catalog."
 layout: "guide"
+glyphicon: "sunglasses"
+iconsize: "12"
 weight: 1
 ---
 
@@ -45,24 +47,15 @@ To complete the simple product creation process, fill the form inserting the bas
 3. <b>Full Description</b><br>
 	Differently form the Short Description, the Full Description field gives to the store manager the chance to add a cuter and more ditailed presentation of the product making text bold, uderlined, italic or adding a picture within it. Furthermore the store manager has the possibility to add all the features provided by html by using the integrated html editor.
 
-4. <b>Base SKU</b><br>
-	One of the most important features of a product to pay attention to, is the Stocking Keeping Unit.
-	SKU is an univocal code that identifies our product to sell that includes all the informations about the attributes of a product.
+4. <b>Friendly URL</b>
 
-	The Base SKU is a code that SM can associate to the product for his convenience that, if a more complex and complete SKU will be added, will act as prefix of the latter.
-
-5. <b>Product Display Page</b><br>
-	Through this function, SM has the chanche to choose the page within the site in which the prouct must be published in.
-
-	<u><b>N.B. THIS FEATURE NEEDS A FRIENDLY URL TO BE SET</b></u>.
-
-6. <b>Published</b><br>
+5. <b>Published</b><br>
 	...
 
-7. <b>Display Date</b><br>
+6. <b>Display Date</b><br>
 	SM has the choose the Date and Time of a product to be published. Until that date, its status will be "Scheduled".
 
-8. <b>Expiration Date</b><br>
+7s. <b>Expiration Date</b><br>
 	Likewise Display Date, SM could choose Date and Time of a product to expire. After that date, its status will be "Expired". This option can be activated unchecking "Never Expire".
 
 </article>

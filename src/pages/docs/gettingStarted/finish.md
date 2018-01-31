@@ -2,7 +2,8 @@
 title: "Finish!"
 description: ""
 layout: "guide"
-weight: 4
+weight: 5
+glyphicon: "flag"
 ---
 
 ###### <div class="description">{$page.description}</div>
@@ -18,6 +19,6 @@ weight: 4
 </article>
 
 <div class="btn-holder">
-	<a class="btn btn-default" href="./importMethod.html">PREV: Import Method</a>
+	<a class="btn btn-default" href="./customerPortalMethod.html">PREV: Import Method</a>
 	<a class="btn btn-accent" href="/docs/catalog/index.html">NEXT: CATALOG</a>
 </div>

@@ -79,6 +79,9 @@ description: "Everything you need to know to get started."
 											{if $topic.icon}
 												<span class="icon-16-{$topic.icon}"></span>
 											{/if}
+											{if $topic.material}
+												<span class="icon-{$topic.iconsize} material-icons">{$topic.material}</span>
+											{/if}
 											{if $topic.glyphicon}
 												<span class="icon-{$topic.iconsize} glyphicon glyphicon-{$topic.glyphicon}"></span>
 											{/if}
